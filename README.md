@@ -71,24 +71,24 @@ This project is about Predicting the price of a house based on their features (n
 
 •	Used seaborn’s distribution plot to visualize the price feature (since it’s a continuous label) which showed that the house prices mostly fall between 0-1.5 million dollars and some outliers for the extremely expensive houses.
 
-![](Images2/images1.png)
+![](images2/image1.png)
 
 •	used a count plot to visualize the most common number of rooms in most houses in the data which is usually has (between 2-5)
 
-![](Images2/images2.png)
+![](images2/image2.png)
 
 •	Explored more on the data’s highly correlated features using a scatterplot for e.g. house price and living space, and this showed the more the living space, the more the house price.
 
-![](Images2/images3.png)
+![](images2/image3.png)
 
 •	Temporarily dropped some outliers in the data by removing the top 1 percent of the most expensive houses I.e they are the house prices with 1 or 2 frequency in the data, In order to Use a scatter plot to show the relation between the house price and the latitude and longitudes of the house. This helped reveal the locations with the most expensive house prices.
 
-![](Images2/images4.png)
+![](images2/image4.png)
 
 •	A box plot was used to show the price difference between houses located at the waterfront and houses not located at the waterfront.
 
-![](Images2/images5.png)
+![](images2/image5.png)
 
 •	Did a plot on the average price of the houses as the year goes by, and this revealed that the house prices generally increase yearly.
 
-![](Images2/images6.png)
+![](images2/image6.png)
